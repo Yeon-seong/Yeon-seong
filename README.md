@@ -1,6 +1,6 @@
 <!-- ---------- ---------- ----------  ---------- ---------- ---------- -->
 <h1>안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다!</h1>
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 <h2>
