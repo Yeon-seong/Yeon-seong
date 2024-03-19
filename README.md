@@ -1,6 +1,8 @@
 <!-- ---------- ---------- ----------  ---------- ---------- ---------- -->
-<h1>안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다!</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&show_icons=true&theme=radical)
+// <h1>안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다!</h1>
+![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다!%20!🥳}&fontSize=${50}&animation=${twinkling})
+
+
 
 <h2>
   <b>PROJECT</b>
@@ -10,22 +12,22 @@
     🔗 GitHub 업로드 : https://github.com/Yeon-seong/react-nodebird
   </p>
   <p>
-    🌐 배포 사이트 : http://nodebird.xyz/
+    🌐 사이트 : http://nodebird.xyz/
   </p>
 
 <h3>카카오톡 클론</h3>
   <p>
-    🔗 https://github.com/Yeon-seong/js_nomad/tree/master/kokoa_talk
+    🔗 GitHub 업로드 : https://github.com/Yeon-seong/js_nomad/tree/master/kokoa_talk
   </p>
 
 <h3>그림판 캔버스 클론</h3>
   <p>
-    🔗 https://github.com/Yeon-seong/js_nomad/tree/master/js_paint
+    🔗 GitHub 업로드 : https://github.com/Yeon-seong/js_nomad/tree/master/js_paint
   </p>
 
 <h3>모멘텀 클론</h3>
   <p>
-    🔗 https://github.com/Yeon-seong/js_nomad/tree/master/js_momentum
+    🔗 GitHub 업로드 : https://github.com/Yeon-seong/js_nomad/tree/master/js_momentum
   </p>
 
 
