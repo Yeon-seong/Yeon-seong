@@ -12,17 +12,17 @@
     </a>
 <br>
   <h3>카카오톡 클론</h3>
-    <a href="https://github.com/Yeon-seong/js_nomad/tree/master/kokoa_talk">
+    <a href="https://github.com/Yeon-seong/FrontEnd_Project/tree/master/kokoa_talk">
       <p>🔗 깃허브 🔗</p>
     </a>
 <br>
   <h3>그림판 캔버스 클론</h3>
-    <a href="https://github.com/Yeon-seong/js_nomad/tree/master/js_paint">
+    <a href="https://github.com/Yeon-seong/FrontEnd_Project/tree/master/js_paint">
       <p>🔗 깃허브 🔗</p>
     </a>
 <br>
   <h3>모멘텀 클론</h3>
-    <a href="https://github.com/Yeon-seong/js_nomad/tree/master/js_momentum">
+    <a href="https://github.com/Yeon-seong/FrontEnd_Project/tree/master/js_momentum">
       <p>🔗 깃허브 🔗</p>
     </a>
 <br>
