@@ -1,40 +1,34 @@
 <!-- ---------- ---------- ----------  ---------- ---------- ---------- -->
-// <h1>안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다!</h1>
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다!%20!🥳}&fontSize=${50}&animation=${twinkling})
+<h1>안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다!</h1>
 
 
 
-<h2>
-  <b>PROJECT</b>
-</h2>
+<h2> <b>👩🏻‍💻 PROJECT</b> </h2>
 <h3>트위터 클론</h3>
-  <p>
-    🔗 GitHub 업로드 : https://github.com/Yeon-seong/react-nodebird
-  </p>
-  <p>
-    🌐 사이트 : http://nodebird.xyz/
-  </p>
+  <a href="https://github.com/Yeon-seong/react-nodebird">
+    <p>🔗 GitHub 업로드 🔗</p>
+  </a>
+  <a href="http://nodebird.xyz/">
+    <p>🌐 배포 사이트 🌐</p>
+  </a>
 
 <h3>카카오톡 클론</h3>
-  <p>
-    🔗 GitHub 업로드 : https://github.com/Yeon-seong/js_nomad/tree/master/kokoa_talk
-  </p>
+  <a href="https://github.com/Yeon-seong/js_nomad/tree/master/kokoa_talk">
+    <p>🔗 GitHub 업로드 🔗</p>
+  </a>
 
 <h3>그림판 캔버스 클론</h3>
-  <p>
-    🔗 GitHub 업로드 : https://github.com/Yeon-seong/js_nomad/tree/master/js_paint
-  </p>
+  <a href="https://github.com/Yeon-seong/js_nomad/tree/master/js_paint">
+    <p>🔗 GitHub 업로드 🔗</p>
+  </a>
 
 <h3>모멘텀 클론</h3>
-  <p>
-    🔗 GitHub 업로드 : https://github.com/Yeon-seong/js_nomad/tree/master/js_momentum
-  </p>
+  <a href="https://github.com/Yeon-seong/js_nomad/tree/master/js_momentum">
+    <p>🔗 GitHub 업로드 🔗</p>
+  </a>
 
 
-
-<h2>
-  <b>SKILLS</b>
-</h2>
+<h2> <b>🔎 SKILLS</b> </h2>
 
 <h3>Front-end</h3>
 <p>
