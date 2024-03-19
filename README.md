@@ -2,6 +2,7 @@
 <h1>✨Welcome to My GitHub!</h1>
 👋안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다!👋
 
+<p>![Yeon-Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username="Yeon-seong"ID&show_icons=true&theme=radical)</p>
 
 <h2> <b>👩🏻‍💻 PROJECT</b> </h2>
 <h3>트위터 클론</h3>
