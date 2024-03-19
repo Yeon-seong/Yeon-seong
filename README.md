@@ -2,35 +2,34 @@
 <h1>안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다!</h1>
 
 
-********** ********** ********** ********** ********** ********** ********** ********** ********** **********
 
 <h2>
   <b>PROJECT</b>
 </h2>
-<h3> 트위터 클론</h3>
-<p>
-  🔗 GitHub 업로드 : https://github.com/Yeon-seong/react-nodebird
-</p>
-<p>
-  🌐 배포 사이트 : http://nodebird.xyz/
-</p>
+<h3>트위터 클론</h3>
+  <p>
+    🔗 GitHub 업로드 : https://github.com/Yeon-seong/react-nodebird
+  </p>
+  <p>
+    🌐 배포 사이트 : http://nodebird.xyz/
+  </p>
 
-<h3> 카카오톡 클론</h3>
-<p>
-  🔗 https://github.com/Yeon-seong/js_nomad/tree/master/kokoa_talk
-</p>
+<h3>카카오톡 클론</h3>
+  <p>
+    🔗 https://github.com/Yeon-seong/js_nomad/tree/master/kokoa_talk
+  </p>
 
-<h3> 그림판 캔버스 클론</h3>
-<p>
-  🔗 https://github.com/Yeon-seong/js_nomad/tree/master/js_paint
-</p>
+<h3>그림판 캔버스 클론</h3>
+  <p>
+    🔗 https://github.com/Yeon-seong/js_nomad/tree/master/js_paint
+  </p>
 
-<h3> 모멘텀 클론</h3>
-<p>
-  🔗 https://github.com/Yeon-seong/js_nomad/tree/master/js_momentum
-</p>
+<h3>모멘텀 클론</h3>
+  <p>
+    🔗 https://github.com/Yeon-seong/js_nomad/tree/master/js_momentum
+  </p>
 
-********** ********** ********** ********** ********** ********** ********** ********** ********** **********
+
 
 <h2>
   <b>SKILLS</b>
