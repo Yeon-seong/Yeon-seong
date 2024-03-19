@@ -33,18 +33,6 @@
     <p>
       <!-- ---------- HTML5 스킬 아이콘 ---------- -->
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    
-      <!-- ---------- CSS3 스킬 아이콘 ---------- -->
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    
-      <!-- ---------- JavaScript 스킬 아이콘 ---------- -->
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-    
-      <!-- ---------- React 스킬 아이콘 ---------- -->
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    
-      <!-- ---------- Next.js 스킬 아이콘 ---------- -->
-      <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
     </p>
 
   <h3>Back-end</h3>
@@ -52,19 +40,19 @@
       <!-- ---------- Node.js 스킬 아이콘 ---------- -->
       <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
     </p>
-  
+
   <h3>SQL</h3>
     <p>
       <!-- ---------- MySQL 스킬 아이콘 ---------- -->
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     </p>
-  
+
   <h3>Service</h3>
     <p>
       <!-- ---------- AWS 스킬 아이콘 ---------- -->
       <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     </p>
-  
+
   <h3>DevOps</h3>
     <p>
       <!-- ---------- GitHub 스킬 아이콘 ---------- -->
