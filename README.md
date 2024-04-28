@@ -5,7 +5,7 @@
 ## 👩🏻‍💻 PROJECT
 ### 🕊트위터 클론🕊
   <a href="http://nodebird.xyz/">
-    <p>🌐 트위터 클론 배포 사이트 링크</p>
+    <p>🌐 배포 사이트 링크</p>
   </a>
   <a href="https://github.com/Yeon-seong/react-nodebird">
     <p>🔗 깃허브</p>
