@@ -1,11 +1,11 @@
-<!-- ---------- -------------------- 대제목 -------------------- ---------- -->
+<!-- ---------- ---------- ---------- ---------- ---------- 대제목 ---------- ---------- ---------- ---------- ---------- -->
 # ✨ 안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다! ✨
-
+<br>
 
 ## 👩🏻‍💻 PROJECT
 ### 🕊트위터 클론🕊
   <a href="http://nodebird.xyz/">
-    <p>🌐 배포 사이트</p>
+    <p>🌐 트위터 클론 배포 사이트 링크</p>
   </a>
   <a href="https://github.com/Yeon-seong/react-nodebird">
     <p>🔗 깃허브</p>
@@ -53,32 +53,27 @@
     <!-- Next.js 스킬 아이콘 -->
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
   </p>
-<br>
 
 ### Back-end
   <p>
     <!-- Node.js 스킬 아이콘 -->
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   </p>
-<br>
 
 ### SQL
   <p>
     <!-- MySQL 스킬 아이콘 -->
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   </p>
-<br>
 
 ### Service
   <p>
     <!-- AWS 스킬 아이콘 -->
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </p>
-<br>
 
 ### DevOps
   <p>
     <!-- GitHub 스킬 아이콘 -->
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </p>
-<br>
