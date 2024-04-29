@@ -5,33 +5,27 @@
 ## 👩🏻‍💻 PROJECT
 ### 🕊트위터 클론🕊
 > 트위터 커뮤니티 사이트(개인 프로젝트)
-> * 개발 기간 : 2023.09.15 ~ 2024.02.08
+> * <p>개발 기간 : 2023.09.15 ~ 2024.02.08</p>
 > * <a href="http://nodebird.xyz/"> <p>👉 배포 사이트 👈</p> </a>
-> * <a href="https://github.com/Yeon-seong/react-nodebird"> <p>🔗 깃허브(리드미)</p> </a>
+> * <a href="https://github.com/Yeon-seong/react-nodebird"> <p>🔗 깃허브(README) 🔗</p> </a>
 <br>
 
 ### 💬 카카오톡 클론 💬
 > 카카오톡 앱 디자인(개인 프로젝트)
-> * 개발 기간 : 2023.08.28 ~ 2023.09.13
-  <a href="https://github.com/Yeon-seong/FrontEnd_Project">
-    <p>🔗 깃허브(리드미)</p>
-  </a>
+> * <p>개발 기간 : 2023.08.28 ~ 2023.09.13</p>
+> * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 깃허브(README) 🔗</p> </a>
 <br>
 
 ### 🎨 그림판 캔버스 클론 🎨
 > 그림판 웹사이트(개인 프로젝트)
-> * 개발 기간 : 2023.08.04 ~ 2023.08.25
-  <a href="https://github.com/Yeon-seong/FrontEnd_Project">
-  > * <p>🔗 깃허브(리드미)</p>
-  </a>
+> * <p>개발 기간 : 2023.08.04 ~ 2023.08.25</p>
+> * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 깃허브(README) 🔗</p> </a>
 <br>
 
 ### 📒 모멘텀 클론 📒
 > 모멘텀 확장 프로그램 웹사이트(개인 프로젝트)
-> * 개발 기간 : 2023.07.14 ~ 2023.08.03
-  <a href="https://github.com/Yeon-seong/FrontEnd_Project">
-  > * <p>🔗 깃허브(리드미)</p>
-  </a>
+> * <p>개발 기간 : 2023.07.14 ~ 2023.08.03</p>
+> * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 깃허브(README) 🔗</p> </a>
 <br>
 
 ## ⚒️ SKILLS
