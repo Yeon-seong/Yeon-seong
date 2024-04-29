@@ -4,38 +4,37 @@
 
 ## 👩🏻‍💻 PROJECT
 ### 🕊트위터 클론🕊
+> 트위터 커뮤니티(개인 프로젝트)
+> * 개발 기간 : 2023.09.15 ~ 2024.02.08
   <a href="http://nodebird.xyz/">
     <p>🌐 배포 완료</p>
   </a>
   <a href="https://github.com/Yeon-seong/react-nodebird">
-    <p>🔗 깃허브</p>
+    <p>🔗 깃허브(리드미)</p>
   </a>
 <br>
 
 ### 💬 카카오톡 클론 💬
+> 카카오톡 앱 디자인(개인 프로젝트)
+> * 개발 기간 : 2023.08.28 ~ 2023.09.13
   <a href="https://github.com/Yeon-seong/FrontEnd_Project">
-    <p>📚 프로젝트 리드미</p>
-  </a>
-  <a href="https://github.com/Yeon-seong/FrontEnd_Project/tree/master/kokoa_talk">
-    <p>🔗 깃허브</p>
+    <p>🔗 깃허브(리드미)</p>
   </a>
 <br>
 
 ### 🎨 그림판 캔버스 클론 🎨
+> 그림판(개인 프로젝트)
+> * 개발 기간 : 2023.08.04 ~ 2023.08.25
   <a href="https://github.com/Yeon-seong/FrontEnd_Project">
-    <p>📚 프로젝트 리드미</p>
-  </a>
-  <a href="https://github.com/Yeon-seong/FrontEnd_Project/tree/master/js_paint">
-    <p>🔗 깃허브</p>
+    <p>🔗 깃허브(리드미)</p>
   </a>
 <br>
 
 ### 📒 모멘텀 클론 📒
+> (개인 프로젝트)
+> * 개발 기간 : 2023.07.14 ~ 2023.08.03
   <a href="https://github.com/Yeon-seong/FrontEnd_Project">
-    <p>📚 프로젝트 리드미</p>
-  </a>
-  <a href="https://github.com/Yeon-seong/FrontEnd_Project/tree/master/js_momentum">
-    <p>🔗 깃허브</p>
+    <p>🔗 깃허브(리드미)</p>
   </a>
 <br>
 
