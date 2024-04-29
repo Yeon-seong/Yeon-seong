@@ -6,12 +6,12 @@
 ### 🕊트위터 클론🕊
 > 트위터 커뮤니티 사이트(개인 프로젝트)
 > * 개발 기간 : 2023.09.15 ~ 2024.02.08
-  <a href="http://nodebird.xyz/">
-  > * <p>👉 배포 사이트 👈</p>
-  </a>
-  <a href="https://github.com/Yeon-seong/react-nodebird">
-  > * <p>🔗 깃허브(리드미)</p>
-  </a>
+> * <a href="http://nodebird.xyz/">
+      <p>👉 배포 사이트 👈</p>
+    </a>
+> * <a href="https://github.com/Yeon-seong/react-nodebird">
+      <p>🔗 깃허브(리드미)</p>
+    </a>
 <br>
 
 ### 💬 카카오톡 클론 💬
