@@ -1,6 +1,7 @@
 <!-- ---------- ---------- ---------- ---------- ---------- 대제목 ---------- ---------- ---------- ---------- ---------- -->
 # ✨ 안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다! ✨
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&theme=dark&show_icons=true)
+<br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
