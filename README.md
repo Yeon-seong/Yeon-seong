@@ -8,9 +8,6 @@
 
 <!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
 > [![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=ambient_gradient&weight=50&height=200&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 깃허브 사용 언어 표기 -->
-> [![깃허브 개발 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut&weight=50&height=200)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
@@ -43,18 +40,17 @@
 
 ## ⚒️ SKILLS
 ### Front-end
+  <!-- HTML5 스킬 아이콘 -->
+> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <!-- CSS3 스킬 아이콘 -->
+> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <!-- JavaScript 스킬 아이콘 -->
+> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <!-- React 스킬 아이콘 -->
+> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <!-- Next.js 스킬 아이콘 -->
+> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
   <p>
-    <!-- HTML5 스킬 아이콘 -->
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <!-- CSS3 스킬 아이콘 -->
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-    <!-- JavaScript 스킬 아이콘 -->
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-    <!-- React 스킬 아이콘 -->
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <!-- Next.js 스킬 아이콘 -->
-    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
-  </p>
 
 ### Back-end
   <p>
