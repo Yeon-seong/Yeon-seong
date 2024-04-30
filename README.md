@@ -3,7 +3,7 @@
 <br>
 
 [![Yeon-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## 👩🏻‍💻 PROJECT
