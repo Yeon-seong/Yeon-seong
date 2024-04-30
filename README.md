@@ -7,13 +7,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&size_weight=0.5&count_weight=0.5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&exclude_repo=github-readme-stats,anuraghazra.github.io)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&hide=javascript,html)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=compact)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&hide_progress=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## 👩🏻‍💻 PROJECT
