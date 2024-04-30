@@ -1,14 +1,14 @@
 <!-- ---------- ---------- ---------- ---------- ---------- 메인 헤더 ---------- ---------- ---------- ---------- ---------- -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&weight=500&height=300&section=header&text=✨안녕하세요!%웹%프론트엔드%개발자를%꿈꾸는%이다빈%입니다!✨&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&weight=500&height=300&section=header&text=✨안녕하세요!&웹&프론트엔드&개발자를&꿈꾸는&이다빈&입니다!✨&fontSize=50)
 <br>
 
-## ⭐ STATS
+##
+### ⭐STATS⭐
 <!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
 > [![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=ambient_gradient&weight=50&height=200&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 ## ⚒️ SKILLS
-### Front-end
 <!-- HTML5 스킬 아이콘 -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <!-- CSS3 스킬 아이콘 -->
@@ -20,19 +20,15 @@
 <!-- Next.js 스킬 아이콘 -->
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
 
-### Back-end
 <!-- Node.js 스킬 아이콘 -->
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-### SQL
 <!-- MySQL 스킬 아이콘 -->
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-### Service
 <!-- AWS 스킬 아이콘 -->
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-### DevOps
 <!-- GitHub 스킬 아이콘 -->
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <br>
