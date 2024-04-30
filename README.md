@@ -4,12 +4,17 @@
 
 <p>
   <!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
-  [![Yeon-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&rank_icon=github)]
+  [![Yeon-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
   
   <!-- 깃허브 사용 언어 표기 -->
-  [![Yeon-seong's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)]
+  [![Yeon-seong's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
+  [![Yeon-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <!-- 깃허브 사용 언어 표기 -->
+  [![Yeon-seong's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-
 <br>
 
 ## 👩🏻‍💻 PROJECT
