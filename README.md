@@ -2,9 +2,6 @@
 # ✨ 안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다! ✨
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&hide=stars,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
