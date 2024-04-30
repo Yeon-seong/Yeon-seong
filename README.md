@@ -1,9 +1,47 @@
 <!-- ---------- ---------- ---------- ---------- ---------- Header ---------- ---------- ---------- ---------- ---------- -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
+
 
 <!-- 제목 인사 -->
 # ✨ 안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다! ✨
 <br>
+
+
+<!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
+[![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=default&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=ambient_gradient&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 깃허브 사용 언어 표기 -->
+[![깃허브 개발 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+
+## 👩🏻‍💻 PROJECT
+### 🕊트위터 클론🕊
+> 트위터 커뮤니티 사이트(개인 프로젝트)
+> * <p>⏱ 개발 기간 : 2023.09.15 ~ 2024.02.08</p>
+> * <a href="http://nodebird.xyz/"> <p>👉 배포 사이트 👈</p> </a>
+> * <a href="https://github.com/Yeon-seong/react-nodebird"> <p>🔗 깃허브(README)</p> </a>
+<br>
+
+### 💬 카카오톡 클론 💬
+> 카카오톡 앱 디자인(개인 프로젝트)
+> * <p>⏱ 개발 기간 : 2023.08.28 ~ 2023.09.13</p>
+> * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 깃허브(README)</p> </a>
+<br>
+
+### 🎨 그림판 캔버스 클론 🎨
+> 그림판 웹사이트(개인 프로젝트)
+> * <p>⏱ 개발 기간 : 2023.08.04 ~ 2023.08.25</p>
+> * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 깃허브(README)</p> </a>
+<br>
+
+### 📒 모멘텀 클론 📒
+> 모멘텀 확장 프로그램 웹사이트(개인 프로젝트)
+> * <p>⏱ 개발 기간 : 2023.07.14 ~ 2023.08.03</p>
+> * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 깃허브(README)</p> </a>
+<br>
+
 
 ## ⚒️ SKILLS
 ### Front-end
@@ -43,39 +81,3 @@
     <!-- GitHub 스킬 아이콘 -->
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </p>
-<br>
-
-
-## 👩🏻‍💻 PROJECT
-### 🕊트위터 클론🕊
-> 트위터 커뮤니티 사이트(개인 프로젝트)
-> * <p>⏱ 개발 기간 : 2023.09.15 ~ 2024.02.08</p>
-> * <a href="http://nodebird.xyz/"> <p>👉 배포 사이트 👈</p> </a>
-> * <a href="https://github.com/Yeon-seong/react-nodebird"> <p>🔗 깃허브(README)</p> </a>
-<br>
-
-### 💬 카카오톡 클론 💬
-> 카카오톡 앱 디자인(개인 프로젝트)
-> * <p>⏱ 개발 기간 : 2023.08.28 ~ 2023.09.13</p>
-> * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 깃허브(README)</p> </a>
-<br>
-
-### 🎨 그림판 캔버스 클론 🎨
-> 그림판 웹사이트(개인 프로젝트)
-> * <p>⏱ 개발 기간 : 2023.08.04 ~ 2023.08.25</p>
-> * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 깃허브(README)</p> </a>
-<br>
-
-### 📒 모멘텀 클론 📒
-> 모멘텀 확장 프로그램 웹사이트(개인 프로젝트)
-> * <p>⏱ 개발 기간 : 2023.07.14 ~ 2023.08.03</p>
-> * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 깃허브(README)</p> </a>
-<br>
-
-
-<!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
-[![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=default&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- 깃허브 사용 언어 표기 -->
-[![깃허브 개발 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<br>
