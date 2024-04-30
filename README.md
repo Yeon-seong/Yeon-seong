@@ -1,4 +1,7 @@
-<!-- ---------- ---------- ---------- ---------- ---------- 대제목 ---------- ---------- ---------- ---------- ---------- -->
+<!-- ---------- ---------- ---------- ---------- ---------- Header ---------- ---------- ---------- ---------- ---------- -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+<!-- 제목 인사 -->
 # ✨ 안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다! ✨
 <br>
 
@@ -71,13 +74,7 @@
 
 
 <!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
-[![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=default&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=default_repocard&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 깃허브 사용 언어 표기 -->
 [![깃허브 개발 언어](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
