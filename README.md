@@ -2,9 +2,7 @@
 # ✨ 안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다! ✨
 <br>
 
-[![Yeon-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&exclude_repo=github-readme-stats,anuraghazra.github.io)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Yeon-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
