@@ -2,11 +2,17 @@
 # ✨ 안녕하세요! 웹 프론트엔드 개발자 이다빈 입니다! ✨
 <br>
 
-[![Yeon-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Yeon-seong's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Yeon-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&hide=contribs&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Yeon-seong's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut&<a href="https://github.com/Yeon-seong"><img src="" alt="Yeon-seong's GitHub stats" /></a>)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Yeon-seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeon-seong&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://github.com/Yeon-seong"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Yeon-seong&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Yeon-seong's GitHub stats" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=aryankarumuri&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" />
+
 <br>
 
 [![Yeon-seong's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeon-seong&&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
