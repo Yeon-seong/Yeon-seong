@@ -18,14 +18,14 @@
 
 ## 👩🏻‍💻 PROJECT
 ### 🕊트위터 클론🕊
-> 트위터 커뮤니티 사이트(개인 프로젝트)
+> 트위터 커뮤니티 웹사이트(개인 프로젝트)
 > * <p>⏱ 개발 기간 : 2023.09.15 ~ 2024.02.08</p>
 > * <a href="http://nodebird.xyz/"> <p>🌐 배포 사이트 🌐</p> </a>
 > * <a href="https://github.com/Yeon-seong/react-nodebird"> <p>🔗 프로젝트 상세 설명(README)</p> </a>
 <br>
 
 ### 💬 카카오톡 클론 💬
-> 카카오톡 앱 디자인(개인 프로젝트)
+> 카카오톡 앱사이트 디자인(개인 프로젝트)
 > * <p>⏱ 개발 기간 : 2023.08.28 ~ 2023.09.13</p>
 > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 프로젝트 상세 설명(README)</p> </a>
 <br>
