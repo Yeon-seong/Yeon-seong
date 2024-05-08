@@ -17,6 +17,13 @@
 
 
 ## 👩🏻‍💻 PROJECT
+### 📽 영화 웹 서비스 📽
+> 영화 서비스 웹사이트(개인 프로젝트)
+> * <p>⏱ 개발 기간 : 2023.05.08 ~ 진행중</p>
+> * <p>⚒️ 사용 스킬 : HTML5, CSS3, JavaScriptES6, React.js, Node.js</p>
+> * <a href="https://github.com/Yeon-seong/react-movie-web"> <p>🔗 프로젝트 상세 설명(README)</p> </a>
+<br>
+
 ### 🕊트위터 클론🕊
 > 트위터 커뮤니티 웹사이트(개인 프로젝트)
 > * <p>⏱ 개발 기간 : 2023.09.15 ~ 2024.02.08</p>
