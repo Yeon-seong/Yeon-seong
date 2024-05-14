@@ -21,8 +21,8 @@
 > 영화 서비스 웹사이트(개인 프로젝트)
 > * <p>⏱ 개발 기간 : 2023.05.08 ~ 진행중</p>
 > * <p>⚒️ 사용 스킬</p>
-> ** <b>Front</b> ➡️ HTML5, CSS3, JavaScriptES6, React.js
-> ** <b>Back</b> ➡️ Node.js
+>   * <b>Front</b> ➡️ HTML5, CSS3, JavaScriptES6, React.js
+>   * <b>Back</b> ➡️ Node.js
 > * <a href="https://github.com/Yeon-seong/react-movie-web"> <p>🔗 프로젝트 상세 설명 README</p> </a>
 <br>
 
@@ -30,8 +30,8 @@
 > 트위터 커뮤니티 웹사이트(개인 프로젝트)
 > * <p>⏱ 개발 기간 : 2023.09.15 ~ 2024.02.08</p>
 > * <p>⚒️ 사용 스킬 </p>
-> ** <b>Front</b> ➡️ HTML5, CSS3, JavaScriptES6, React.js, Next.js
-> ** <b>Back</b> ➡️ Node.js, MySQL, AWS
+>   * <b>Front</b> ➡️ HTML5, CSS3, JavaScriptES6, React.js, Next.js
+>   * <b>Back</b> ➡️ Node.js, MySQL, AWS
 > * <a href="http://nodebird.xyz/"> <p>🌐 배포 사이트 🌐</p> </a>
 > * <a href="https://github.com/Yeon-seong/react-nodebird"> <p>🔗 프로젝트 상세 설명 README</p> </a>
 <br>
@@ -40,7 +40,7 @@
 > 카카오톡 앱사이트 디자인(개인 프로젝트)
 > * <p>⏱ 개발 기간 ➡️ 2023.08.28 ~ 2023.09.13</p>
 > * <p>⚒️ 사용 스킬</p>
-> ** <b>Front</b> ➡️ HTML5, CSS3
+>   * <b>Front</b> ➡️ HTML5, CSS3
 > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 프로젝트 상세 설명 README</p> </a>
 <br>
 
@@ -48,7 +48,7 @@
 > 그림판 웹사이트(개인 프로젝트)
 > * <p>⏱ 개발 기간 : 2023.08.04 ~ 2023.08.25</p>
 > * <p>⚒️ 사용 스킬</p>
-> ** <b>Front</b> ➡️ HTML5, CSS3, JavaScriptES6, Canvas API
+>   * <b>Front</b> ➡️ HTML5, CSS3, JavaScriptES6, Canvas API
 > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 프로젝트 상세 설명 README</p> </a>
 <br>
 
@@ -56,6 +56,6 @@
 > 모멘텀 확장 프로그램 웹사이트(개인 프로젝트)
 > * <p>⏱ 개발 기간 : 2023.07.14 ~ 2023.08.03</p>
 > * <p>⚒️ 사용 스킬</p>
-> ** <b>Front</b> ➡️ HTML5, JavaScriptES6
+>   * <b>Front</b> ➡️ HTML5, JavaScriptES6
 > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 프로젝트 상세 설명 README</p> </a>
 <br>
