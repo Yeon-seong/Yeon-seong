@@ -21,8 +21,8 @@
 > 영화 서비스 웹사이트(개인 프로젝트)
 > * <p>⏱ 개발 기간 : 2023.05.08 ~ 진행중</p>
 > * <p>⚒️ 사용 스킬</p>
-> * <p> <b>Front</b> : HTML5, CSS3, JavaScriptES6, React.js </p>
-> *  <p> <b>Back</b> : Node.js </p>
+> * <p> ➡️ <b>Front</b> : HTML5, CSS3, JavaScriptES6, React.js </p>
+> * <p> ➡️ <b>Back</b> : Node.js </p>
 > * <a href="https://github.com/Yeon-seong/react-movie-web"> <p>🔗 프로젝트 상세 설명 README</p> </a>
 <br>
 
@@ -56,6 +56,6 @@
 > 모멘텀 확장 프로그램 웹사이트(개인 프로젝트)
 > * <p>⏱ 개발 기간 : 2023.07.14 ~ 2023.08.03</p>
 > * <p>⚒️ 사용 스킬</p>
-> * <p> <b>Front</b> : HTML5, JavaScriptES6 </p>
+> * <p> ➡️ <b>Front</b> : HTML5, JavaScriptES6 </p>
 > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"> <p>🔗 프로젝트 상세 설명 README</p> </a>
 <br>
