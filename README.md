@@ -10,7 +10,7 @@
 [![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=ambient_gradient&weight=50&height=200&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-## 블로그 노트
+## 📚블로그 정리노트📚
 <a href="https://yeon-seong.github.io/frontend_wenivlog/">
   🐱위니블로그(Wenivlog)🐱
 </a>
@@ -22,7 +22,7 @@
 <!-- ---------- ---------- ---------- ---------- ---------- 가운데 정렬2 시작 ---------- ---------- ---------- ---------- ---------- -->
 <div align=center>
 
-## ⚒️ SKILLS
+## ⚒️SKILLS⚒️
 ### Front-end
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -42,7 +42,7 @@
 <br>
 <!-- ---------- ---------- ---------- ---------- ---------- 가운데 정렬2 끝 ---------- ---------- ---------- ---------- ---------- -->
 
-## 👩🏻‍💻 PROJECT
+## 👩🏻‍💻PROJECT👩🏻‍💻
 ### 📽 영화 웹 서비스 📽
 > 영화 서비스 웹사이트(개인 프로젝트)
   > * <p>⏱ 개발 기간 : <b>2023.05.08 ~ 진행중</b></p>
