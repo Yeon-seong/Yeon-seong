@@ -8,7 +8,7 @@
 [![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=ambient_gradient&weight=50&height=200&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-<h2>블로그 노트
+## 블로그 노트
   <a href="https://yeon-seong.github.io/frontend_wenivlog/">🐱위니블로그(Wenivlog)🐱</a>
 <br>
 
