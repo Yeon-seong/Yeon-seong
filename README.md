@@ -1,8 +1,7 @@
 <!-- ---------- ---------- ---------- ---------- ---------- 메인 리드미 가운데 정렬 ---------- ---------- ---------- ---------- ---------- -->
 
 <div align=center>
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&weight=500&height=300&section=header&text=✨Hello,Everyone!!✨&fontSize=60)
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&weight=500&height=300&section=header&text=✨Hello,Everyone!!✨&fontSize=60)
 
 # ⭐안녕하세요! 웹 프론트엔드 개발자를 꿈꾸는 이다빈 입니다!⭐
 <!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
@@ -73,3 +72,4 @@
   > * <p> ➡️ <b>Front</b> : HTML5, JavaScriptES6</p>
   > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"><p>🔗 프로젝트 상세 설명 README</p></a>
   <br>
+</div>
