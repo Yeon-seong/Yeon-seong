@@ -1,16 +1,18 @@
 <!-- ---------- ---------- ---------- ---------- ---------- 메인 헤더 ---------- ---------- ---------- ---------- ---------- -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&weight=500&height=300&section=header&text=✨Hello,Everyone!!✨&fontSize=60)
 
+
+# ⭐안녕하세요! 웹 프론트엔드 개발자를 꿈꾸는 이다빈 입니다!⭐
+<!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
+[![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=ambient_gradient&weight=50&height=200&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+## 블로그 노트
+<a href="https://yeon-seong.github.io/frontend_wenivlog/">🐱위니블로그(Wenivlog)🐱</a>
+<br>
+
+<!-- 메인 리드미 내용 가운데 정렬 -->
 <div align="center">
-  # ⭐안녕하세요! 웹 프론트엔드 개발자를 꿈꾸는 이다빈 입니다!⭐
-  <!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
-  [![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=ambient_gradient&weight=50&height=200&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  
-  ## 블로그 노트
-  <a href="https://yeon-seong.github.io/frontend_wenivlog/">🐱위니블로그(Wenivlog)🐱</a>
-  <br>
-  
   ## ⚒️ SKILLS
   ### Front-end
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
