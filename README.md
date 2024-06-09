@@ -1,7 +1,7 @@
 <!-- ---------- ---------- ---------- ---------- ---------- 메인 리드미 가운데 정렬 ---------- ---------- ---------- ---------- ---------- -->
 
-<center>
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&weight=500&height=300&section=header&text=✨Hello,Everyone!!✨&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&weight=500&height=300&section=header&text=✨Hello,Everyone!!✨&fontSize=60)
+
 
 # ⭐안녕하세요! 웹 프론트엔드 개발자를 꿈꾸는 이다빈 입니다!⭐
 <!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
@@ -9,7 +9,7 @@
 <br>
 
 ## 블로그 노트
-  <a href="https://yeon-seong.github.io/frontend_wenivlog/">🐱위니블로그(Wenivlog)🐱</a>
+<a href="https://yeon-seong.github.io/frontend_wenivlog/">🐱위니블로그(Wenivlog)🐱</a>
 <br>
 
 ## ⚒️ SKILLS
@@ -28,7 +28,7 @@
 ### DevOps
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <br>
-  
+
 ## 👩🏻‍💻 PROJECT
 ### 📽 영화 웹 서비스 📽
 > 영화 서비스 웹사이트(개인 프로젝트)
@@ -72,4 +72,3 @@
   > * <p> ➡️ <b>Front</b> : HTML5, JavaScriptES6</p>
   > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"><p>🔗 프로젝트 상세 설명 README</p></a>
   <br>
-</center>
