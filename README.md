@@ -1,7 +1,7 @@
 <!-- ---------- ---------- ---------- ---------- ---------- 메인 리드미 가운데 정렬 ---------- ---------- ---------- ---------- ---------- -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&weight=500&height=300&section=header&text=✨Hello,Everyone!!✨&fontSize=60)
-<br>
+
 <div align=center>
 
 # ⭐안녕하세요! 웹 프론트엔드 개발자를 꿈꾸는 이다빈 입니다!⭐
@@ -10,7 +10,9 @@
 <br>
 
 ## 블로그 노트
-<a href="https://yeon-seong.github.io/frontend_wenivlog/">🐱위니블로그(Wenivlog)🐱</a>
+<a href="https://yeon-seong.github.io/frontend_wenivlog/">
+  🐱위니블로그(Wenivlog)🐱
+</a>
 <br>
 
 ## ⚒️ SKILLS
@@ -28,8 +30,9 @@
 
 ### DevOps
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <br>
+
 </div>
+<br>
 
 ## 👩🏻‍💻 PROJECT
 ### 📽 영화 웹 서비스 📽
