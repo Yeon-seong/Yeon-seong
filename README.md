@@ -15,8 +15,10 @@
   🐱위니블로그(Wenivlog)🐱
 </a>-->
 
-## ⛺ ESTsoft 프론트엔드 개발자 부트캠프 ⛺
-<a herf="https://github.com/Yeon-seong/est-front-boot">⛺</a>
+## ⛺ 부트캠프 참여 ⛺
+<a herf="https://github.com/Yeon-seong/est-front-boot">
+  <p>[ESTsoft] 프론트엔드 개발자 오르미 1기</p>
+</a>
 
 </div>
 <br>
