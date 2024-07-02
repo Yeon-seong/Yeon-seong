@@ -86,5 +86,5 @@
   > * <p>⏱ 개발 기간 : <b>2023.07.14 ~ 2023.08.03</b></p>
   > * <p>⚒️ 사용 스킬</p>
   > * <p> ➡️ <b>Front</b> : HTML5, JavaScriptES6</p>
-  > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"><p>🔗 프로젝트 상세 설명 README</p></a>
+  > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"><p>🔗상세 설명 바로가기🔗</p></a>
   <br>
