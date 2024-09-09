@@ -5,7 +5,7 @@
 <!-- ---------- ---------- ---------- ---------- ---------- 가운데 정렬1 시작 ---------- ---------- ---------- ---------- ---------- -->
 <div align=center>
 
-# ⭐ 안녕하세요! 웹 프론트엔드 개발자를 꿈꾸는 이다빈 입니다! ⭐
+# ⭐ 안녕하세요! 웹 프론트엔드 개발자, 이다빈 입니다! ⭐
 <!-- 깃허브 스탯 표기(순위 대신 깃허브 로고 표시) -->
 [![깃허브 개발 스탯](https://github-readme-stats.vercel.app/api?username=Yeon-seong&count_private=true&show_icons=true&theme=ambient_gradient&weight=50&height=200&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 <br>
