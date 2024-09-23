@@ -52,7 +52,7 @@
   > * <p>⚒️ 사용 스킬</p>
   >> * <p>➡️ <b>Front : HTML5, CSS3, JavaScriptES6, React.js</b></p>
   >> * <p>➡️ <b>Back : Node.js</b></p>
-  > * <a href="https://github.com/Yeon-seong/react-movie-web"><p>🔗상세 설명 바로가기🔗</p></a>
+  > * <a href="https://github.com/Yeon-seong/react-movie-web"><p>🔗상세설명 바로가기🔗</p></a>
   <br>
 
 ### 🕊트위터 클론🕊
@@ -62,7 +62,7 @@
   >> * <p>➡️ <b>Front : HTML5, CSS3, JavaScriptES6, React.js, Next.js</b></p>
   >> * <p>➡️ <b>Back : Node.js, MySQL, AWS</b> </p>
   > * <a href="http://nodebird.xyz/"> <p>🌐배포 사이트🌐</p></a>
-  > * <a href="https://github.com/Yeon-seong/react-nodebird"><p>🔗상세 설명 바로가기🔗</p></a>
+  > * <a href="https://github.com/Yeon-seong/react-nodebird"><p>🔗상세설명 바로가기🔗</p></a>
   <br>
 
 ### 💬카카오톡 클론💬
@@ -70,7 +70,7 @@
   > * <p>⏱ 개발 기간 : <b>2023.08.28 ~ 2023.09.13</b></p>
   > * <p>⚒️ 사용 스킬</p>
   >> * <p>➡️ <b>Front : HTML5, CSS3</b></p>
-  > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"><p>🔗상세 설명 바로가기🔗</p></a>
+  > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"><p>🔗상세설명 바로가기🔗</p></a>
   <br>
 
 ### 🎨그림판 캔버스 클론🎨
@@ -78,7 +78,7 @@
   > * <p>⏱ 개발 기간 : <b>2023.08.04 ~ 2023.08.25</b></p>
   > * <p>⚒️ 사용 스킬</p>
   >> * <p>➡️ <b>Front : HTML5, CSS3, JavaScriptES6, Canvas API</b></p>
-  > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"><p>🔗상세 설명 바로가기🔗</p></a>
+  > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"><p>🔗상세설명 바로가기🔗</p></a>
   <br>
 
 ### 📒모멘텀 클론📒
@@ -86,5 +86,5 @@
   > * <p>⏱ 개발 기간 : <b>2023.07.14 ~ 2023.08.03</b></p>
   > * <p>⚒️ 사용 스킬</p>
   >> * <p>➡️ <b>Front</b> : HTML5, JavaScriptES6</p>
-  > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"><p>🔗상세 설명 바로가기🔗</p></a>
+  > * <a href="https://github.com/Yeon-seong/FrontEnd_Project"><p>🔗상세설명 바로가기🔗</p></a>
   <br>
