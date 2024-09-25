@@ -11,9 +11,7 @@
 <br>
 
 <!-- ## 📚 블로그 정리노트 📚
-<a href="https://yeon-seong.github.io/frontend_wenivlog/">
-  🐱 위니블로그(Wenivlog) 🐱
-</a>-->
+<a href="https://yeon-seong.github.io/frontend_wenivlog/">🐱 위니블로그(Wenivlog) 🐱</a>-->
 
 ## ⛺ 부트캠프 참여 ⛺
 <a herf="https://github.com/Yeon-seong/est-front-boot"><p>ESTsoft 프론트엔드 개발자 오르미 1기</p></a>
