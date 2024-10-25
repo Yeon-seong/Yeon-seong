@@ -1,6 +1,10 @@
 <!-- ---------- ---------- ---------- ---------- ---------- 메인 깃허브 헤더 ---------- ---------- ---------- ---------- ---------- -->
+<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&weight=500&height=300&section=header&text=✨Hello,Everyone!!✨&fontSize=60)
+
+</div>
+<br>
 
 <!-- ---------- ---------- ---------- ---------- ---------- 가운데 정렬1 시작 ---------- ---------- ---------- ---------- ---------- -->
 <div align=center>
@@ -45,16 +49,16 @@
 
 ## 👩🏻‍💻 PROJECT 👩🏻‍💻
 ### 💬CodeGram💬
-> 개발자 커뮤니티 웹 앱 사이트(팀 프로젝트)
+> 개발자 커뮤니티 웹 앱 사이트(부트캠프 팀 프로젝트)
   > * <p>⏱ 개발 기간 : <b>2023.09.23 ~ 2024.10.22</b></p>
-  >> * ![배포링크](https://codegram-sns.vercel.app/home)
+  > * <a href="https://codegram-sns.vercel.app/home"><p>🌐배포 사이트🌐</p></a>
   > * <a href="https://github.com/seoriml/codegram-sns?tab=readme-ov-file"><p>🔗상세설명🔗</p></a>
   <br>
 
 ### 📽Lookgit📽
 > 깃허브를 시작화로 배울 수 있는 서비스(오픈소스 프로젝트)
   > * <p>⏱ 개발 기간 : <b>2024.06.24 ~ 2024.08.22</b></p>
-  >> * ![배포링크](https://lookgit.com/)
+  > * <a href="https://lookgit.com/"><p>🌐배포 사이트🌐</p></a>
   > * <a href="https://github.com/weniv/github_visualizationb"><p>🔗상세설명🔗</p></a>
   <br>
 
