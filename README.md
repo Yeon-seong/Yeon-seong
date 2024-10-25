@@ -44,22 +44,18 @@
 <!-- ---------- ---------- ---------- ---------- ---------- 가운데 정렬2 끝 ---------- ---------- ---------- ---------- ---------- -->
 
 ## 👩🏻‍💻 PROJECT 👩🏻‍💻
-### 💬코드그램💬
+### 💬CodeGram💬
 > 개발자 커뮤니티 웹 앱 사이트(팀 프로젝트)
   > * <p>⏱ 개발 기간 : <b>2023.09.23 ~ 2024.10.22</b></p>
-  > * <p>⚒️ 사용 스킬</p>
-  >> * <p>➡️ <b>Front : HTML5, CSS3, JavaScriptES6, React.js</b></p>
-  >> * <p>➡️ <b>Back : Node.js, vite</b></p>
+  >> * ![배포링크](https://codegram-sns.vercel.app/home)
   > * <a href="https://github.com/seoriml/codegram-sns?tab=readme-ov-file"><p>🔗상세설명🔗</p></a>
   <br>
 
-### 📽영화 웹 서비스📽
-> 영화 서비스 웹사이트(개인 프로젝트)
-  > * <p>⏱ 개발 기간 : <b>2023.05.08 ~ 진행중</b></p>
-  > * <p>⚒️ 사용 스킬</p>
-  >> * <p>➡️ <b>Front : HTML5, CSS3, JavaScriptES6, React.js</b></p>
-  >> * <p>➡️ <b>Back : Node.js</b></p>
-  > * <a href="https://github.com/Yeon-seong/react-movie-web"><p>🔗상세설명🔗</p></a>
+### 📽Lookgit📽
+> 깃허브를 시작화로 배울 수 있는 서비스(오픈소스 프로젝트)
+  > * <p>⏱ 개발 기간 : <b>2024.06.24 ~ 2024.08.22</b></p>
+  >> * ![배포링크](https://lookgit.com/)
+  > * <a href="https://github.com/weniv/github_visualizationb"><p>🔗상세설명🔗</p></a>
   <br>
 
 ### 🕊트위터 클론🕊
